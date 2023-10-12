@@ -14,7 +14,7 @@
 wget https://yqgcy-public.oss-cn-hangzhou.aliyuncs.com/init/system-init.sh
 ```
 
-### 2. 更新DNS信息（不区分操作系统）
+### 2. 更新DNS信息
 ```
 system-init.sh --dnsinit
 ```
