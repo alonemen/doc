@@ -11,7 +11,7 @@
 ## 初始化步骤
 ### 1. 下载"system-init"工具
 ```
-wget https://shunxiang.oss-cn-jswx-xuelang-d01-a.ops.cloud.wuxi-yqgcy.cn/init%2Fsystem-init.sh
+wget http://shunxiang.oss-cn-jswx-xuelang-d01-a.ops.cloud.wuxi-yqgcy.cn/system-init.sh
 ```
 
 ### 2. 更新DNS信息
